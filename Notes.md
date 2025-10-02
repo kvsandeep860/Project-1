@@ -19,3 +19,4 @@ conda create -p venv python==3.10 -y
 ```bash
 # To activate the created conda environment
 conda activate venv/
+
