@@ -1,1 +1,64 @@
 [2025-10-01 15:01:01,659:INFO:main:logger is working fine]
+[2025-10-02 15:39:11,677:INFO:common:yaml file: config\config.yaml loaded successfully]
+[2025-10-02 15:39:11,680:INFO:common:yaml file: params.yaml loaded successfully]
+[2025-10-02 15:40:30,713:INFO:common:yaml file: config\config.yaml loaded successfully]
+[2025-10-02 15:40:30,719:INFO:common:yaml file: params.yaml loaded successfully]
+[2025-10-02 15:40:30,725:INFO:common:yaml file: schema.yaml loaded successfully]
+[2025-10-02 15:41:11,186:INFO:common:yaml file: config\config.yaml loaded successfully]
+[2025-10-02 15:41:11,188:INFO:common:yaml file: params.yaml loaded successfully]
+[2025-10-02 15:41:11,196:INFO:common:yaml file: schema.yaml loaded successfully]
+[2025-10-02 15:41:11,206:INFO:common:created directory at: artifacts]
+[2025-10-02 15:44:03,334:INFO:common:yaml file: config\config.yaml loaded successfully]
+[2025-10-02 15:44:03,344:INFO:common:yaml file: params.yaml loaded successfully]
+[2025-10-02 15:44:03,344:INFO:common:yaml file: schema.yaml loaded successfully]
+[2025-10-02 15:44:08,423:INFO:common:yaml file: config\config.yaml loaded successfully]
+[2025-10-02 15:44:08,425:INFO:common:yaml file: params.yaml loaded successfully]
+[2025-10-02 15:44:08,427:INFO:common:yaml file: schema.yaml loaded successfully]
+[2025-10-02 15:44:54,544:INFO:common:yaml file: config\config.yaml loaded successfully]
+[2025-10-02 15:44:54,545:INFO:common:yaml file: params.yaml loaded successfully]
+[2025-10-02 15:44:54,548:INFO:common:yaml file: schema.yaml loaded successfully]
+[2025-10-02 15:44:54,549:INFO:common:created directory at: artifacts]
+[2025-10-02 15:44:54,550:INFO:common:created directory at: artifacts/data_ingestion]
+[2025-10-02 15:46:26,785:INFO:common:yaml file: config\config.yaml loaded successfully]
+[2025-10-02 15:46:26,785:INFO:common:yaml file: params.yaml loaded successfully]
+[2025-10-02 15:46:26,785:INFO:common:yaml file: schema.yaml loaded successfully]
+[2025-10-02 15:46:26,789:INFO:common:created directory at: artifacts]
+[2025-10-02 15:46:26,792:INFO:common:created directory at: artifacts/data_ingestion]
+[2025-10-02 15:49:19,418:INFO:common:yaml file: config\config.yaml loaded successfully]
+[2025-10-02 15:49:19,420:INFO:common:yaml file: params.yaml loaded successfully]
+[2025-10-02 15:49:19,423:INFO:common:yaml file: schema.yaml loaded successfully]
+[2025-10-02 15:49:19,424:INFO:common:created directory at: artifacts]
+[2025-10-02 15:49:19,426:INFO:common:created directory at: artifacts/data_ingestion]
+[2025-10-02 15:51:22,314:INFO:common:yaml file: config\config.yaml loaded successfully]
+[2025-10-02 15:51:22,316:INFO:common:yaml file: params.yaml loaded successfully]
+[2025-10-02 15:51:22,318:INFO:common:yaml file: schema.yaml loaded successfully]
+[2025-10-02 15:51:22,319:INFO:common:created directory at: artifacts]
+[2025-10-02 15:51:22,321:INFO:common:created directory at: artifacts/data_ingestion]
+[2025-10-02 15:51:23,532:INFO:2396004329:artifacts/data_ingestion/data.zip downloaded! with following info:
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 2C98:54918:AF6D0:1BE07F:68DE521E
+Accept-Ranges: bytes
+Date: Thu, 02 Oct 2025 10:21:22 GMT
+Via: 1.1 varnish
+X-Served-By: cache-hyd1100031-HYD
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1759400482.390873,VS0,VE345
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 71dfa765b2f82ed8ff0784734504d9c15e64f65c
+Expires: Thu, 02 Oct 2025 10:26:22 GMT
+Source-Age: 0
+
+]
+[2025-10-02 15:51:23,560:INFO:2396004329:Extracted artifacts/data_ingestion/data.zip to artifacts/data_ingestion]
