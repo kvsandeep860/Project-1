@@ -19,4 +19,10 @@ conda create -p venv python==3.10 -y
 ```bash
 # To activate the created conda environment
 conda activate venv/
-
+```
+# 1. Data Ingestion.
+    - The primary aim of data ingestion is data is sitting some where may be in S3, MangoDb
+    we have to extract the data from there
+ 
+### why do we use data class?
+    Through data class we can store the paths and can retrive when ever we want, lets say "HelloWorld" is a data class and name_path is one of the attribute there we can exract it when ever we want and also, can make it immutable and also we can update it. 
