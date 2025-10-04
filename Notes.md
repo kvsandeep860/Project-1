@@ -25,4 +25,12 @@ conda activate venv/
     we have to extract the data from there
  
 ### why do we use data class?
-    Through data class we can store the paths and can retrive when ever we want, lets say "HelloWorld" is a data class and name_path is one of the attribute there we can exract it when ever we want and also, can make it immutable and also we can update it. 
+Through data class we can store the paths and can retrive when ever we want, lets say "HelloWorld" is a data class and name_path is one of the attribute there we can exract it when ever we want and also, can make it immutable and also we can update it. 
+
+# 2. Data Validation
+
+Lets say we have trained the pipeline with 1000 data points and 3 features f1, f2, f3 now during inference we should not send the features in f2, f3, f1 in this order if in case that happens we should rise an error, in order to perrform these kind of tasks data validation moudle is being implemented.
+
+# 3. Data Transformation
+
+All the Data preprocessing steps like dealing with null values data noramlization are done in this step
